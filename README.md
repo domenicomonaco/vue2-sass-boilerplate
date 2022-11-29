@@ -1,4 +1,4 @@
-# vue2-sass-boilerplate
+# vue3sass
 
 ## Project setup
 ```
