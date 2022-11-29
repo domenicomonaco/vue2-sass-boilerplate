@@ -1,4 +1,4 @@
-# vue3sass
+# vue2sass
 
 ## Project setup
 ```
